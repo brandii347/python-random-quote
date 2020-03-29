@@ -1,4 +1,4 @@
-def sausage():
+def primary():
     print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
@@ -8,4 +8,4 @@ def sausage():
   #print(quotes)
 
 if __name__== "__main__":
-  sausage()
+  primary()
